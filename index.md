@@ -1,8 +1,10 @@
 ## CSCI5839 UCDD Final Project
 
-You can use the [editor on GitHub](https://github.com/lara264/UCDD_final_project/tree/gh-pages) to maintain and preview the content for your website in Markdown files.
+Project Name: Mix & Match
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Creator: [Lara Chunko](Lara.Chunko@colorado.edu)
+
+Brief Description: Design a method for people to engage and connect with people like themselves.
 
 ### Markdown
 
