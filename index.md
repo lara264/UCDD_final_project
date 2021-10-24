@@ -9,3 +9,5 @@ Brief Description: Design a method for people to engage and connect with people 
 ### Deliverables
 
 [Project Proposal](/CSCI5839_Project_Proposal.pdf)
+
+[User Research](/CSCI5839_User_Research.pdf)
