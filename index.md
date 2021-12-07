@@ -17,3 +17,5 @@ Brief Description: Design a method for people to engage and connect with people 
 [User Testing Revised Prototype](/CSCI5839_User_Testing_Revised_Prototype.pdf)
 
 [Storyboard](/CSCI5839_Storyboard.pdf)
+
+[Video](https://drive.google.com/file/d/1dUYVcXLcu9Kp_PCjj1gIvAOpW0fB-uZk/view)
